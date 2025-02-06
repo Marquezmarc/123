@@ -15,3 +15,8 @@ Python – Core programming language
 PyCryptodome (AES Encryption) – Secure data encryption
 Flask (Optional) – For building a simple API-based search system
 SQLite / MongoDB – Database for encrypted data storage
+
+Security Benefits
+🔹 Prevents unauthorized access to sensitive data.
+🔹 Limits keyword exposure duration, reducing the risk of attacks.
+🔹 Ensures data confidentiality even during searches.
