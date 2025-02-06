@@ -3,8 +3,11 @@ This project implements a secure data management system that allows authorized u
 
 Features
 ✅ AES Encryption – Encrypts data before storing it.
+
 ✅ Authorized Keyword Search – Only permitted users can search specific keywords.
+
 ✅ Time-Controlled Access – Limits keyword search access to a predefined duration.
+
 ✅ Security Enhancement – Reduces unauthorized keyword exposure, minimizing breach risks.
 
 Technologies Used
